@@ -1,0 +1,102 @@
+[
+    {
+        "isbn": "9788025701340",
+        "nazev_knihy": "Mu\u017e, kter\u00fd s\u00e1zel stromy",
+        "autor": "Jean Giono",
+        "rok_vydani": "2009",
+        "nakladatelstvi": "Knihovna",
+        "zanr": "Beletrie",
+        "pocet_stran": "60",
+        "cena": "150"
+    },
+    {
+        "isbn": "9788025702569",
+        "nazev_knihy": "Spole\u010denstvo prstenu",
+        "autor": "J.R.R. Tolkien",
+        "rok_vydani": "2012",
+        "nakladatelstvi": "Argo",
+        "zanr": "Fantasy",
+        "pocet_stran": "423",
+        "cena": "450"
+    },
+    {
+        "isbn": "9788020712342",
+        "nazev_knihy": "Stolet\u00fd sta\u0159\u00edk, kter\u00fd vylezl z okna a zmizel",
+        "autor": "Jonas Jonasson",
+        "rok_vydani": "2015",
+        "nakladatelstvi": "Panteon",
+        "zanr": "Humoristick\u00fd rom\u00e1n",
+        "pocet_stran": "356",
+        "cena": "320"
+    },
+    {
+        "isbn": "9788073310565",
+        "nazev_knihy": "Zpov\u011b\u010f",
+        "autor": "Hjalmar S\u00f6derberg",
+        "rok_vydani": "2010",
+        "nakladatelstvi": "BB Art",
+        "zanr": "Psychologick\u00fd rom\u00e1n",
+        "pocet_stran": "215",
+        "cena": "280"
+    },
+    {
+        "isbn": "9788020023911",
+        "nazev_knihy": "Osudy dobr\u00e9ho voj\u00e1ka \u0160vejka",
+        "autor": "Jaroslav Ha\u0161ek",
+        "rok_vydani": "2013",
+        "nakladatelstvi": "Odeon",
+        "zanr": "Satira",
+        "pocet_stran": "768",
+        "cena": "520"
+    },
+    {
+        "isbn": "9788026013433",
+        "nazev_knihy": "\u010cesk\u00fd sen",
+        "autor": "Martin Mejst\u0159\u00edk",
+        "rok_vydani": "2014",
+        "nakladatelstvi": "Host",
+        "zanr": "Report\u00e1\u017e",
+        "pocet_stran": "198",
+        "cena": "270"
+    },
+    {
+        "isbn": "9788072206791",
+        "nazev_knihy": "Na z\u00e1padn\u00ed front\u011b klid",
+        "autor": "Erich Maria Remarque",
+        "rok_vydani": "2006",
+        "nakladatelstvi": "Na\u0161e vojsko",
+        "zanr": "V\u00e1le\u010dn\u00e1 literatura",
+        "pocet_stran": "296",
+        "cena": "310"
+    },
+    {
+        "isbn": "9788072037159",
+        "nazev_knihy": "Alchymista",
+        "autor": "Paulo Coelho",
+        "rok_vydani": "2005",
+        "nakladatelstvi": "Argo",
+        "zanr": "Beletrie",
+        "pocet_stran": "172",
+        "cena": "230"
+    },
+    {
+        "isbn": "9788025702599",
+        "nazev_knihy": "Dv\u011b v\u011b\u017ee",
+        "autor": "J.R.R. Tolkien",
+        "rok_vydani": "2014",
+        "nakladatelstvi": "Argo",
+        "zanr": "Fantasy",
+        "pocet_stran": "441",
+        "cena": "450"
+    },
+    {
+        "isbn": "9788025702339",
+        "nazev_knihy": "N\u00e1vrat kr\u00e1le",
+        "autor": "J.R.R. Tolkien",
+        "rok_vydani": "2015",
+        "nakladatelstvi": "Argo",
+        "zanr": "Fantasy",
+        "pocet_stran": "564",
+        "cena": "460"
+    }
+]
